@@ -1,10 +1,11 @@
 {
   "name": "atlas-ci-lab",
   "version": "1.0.0",
-  "description": "Tiny app for a CI/CD debugging exercise with GitHub Actions.",
+  "description": "A tiny Node.js app used for a CI/CD debugging exercise.",
   "main": "src/math.js",
   "scripts": {
     "test": "node --test"
   },
-  "license": "MIT"
+  "author": "",
+  "license": "ISC"
 }
